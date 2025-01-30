@@ -9,3 +9,6 @@ This Jupyter Notebook serves as a quick reference guide for performing Explorato
 - Handling missing values and duplicates
 - Data filtering, sorting, and grouping
 - Data visualization using Pandas and Matplotlib
+
+## Contribution
+Feel free to contribute by adding more useful EDA functions or optimizing existing ones.
