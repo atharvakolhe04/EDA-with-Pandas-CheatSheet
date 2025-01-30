@@ -1,1 +1,1 @@
-# EDA-with-Pandas-CheetSheet
+# EDA-with-Pandas-CheatSheet
